@@ -24,6 +24,11 @@
         nume1 = Convert.ToDouble(Console.ReadLine());
 
 
+        //--------------------------------
+
+        double nume1 > nume2 And nume1 > nume3 Then
+            Console.WriteLine("El mayor es: " & num1);
+
 
     }
-}
+} 
